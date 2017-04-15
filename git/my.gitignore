@@ -1,0 +1,48 @@
+# git #
+.git
+.gitignore
+
+# CodeLite #
+*.workspace
+.codelite
+Makefile
+.clang
+
+# C++ #
+*.mk
+*.project
+*.txt
+Debug
+
+# Java #
+.idea
+*.class
+*.iml
+
+# make && compile #
+*.mk
+*.project
+*.db
+*.tags
+*.session
+*.tags
+*.db
+*.mk
+*.project
+*.workspace
+*.d
+*.o
+*.d
+*.mk
+*.txt
+Makefile
+*.xml
+
+# document and pdf #
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
