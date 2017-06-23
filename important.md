@@ -46,5 +46,5 @@
   Zshell.card  
   Zhang.card  
   Zhi.card  
-  Think.card *  
-  Fedora.card
+  Think.card 
+  Fedora.card *
