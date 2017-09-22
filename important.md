@@ -42,9 +42,9 @@
   **leanote**:      card    
 
 #### Qunar Loop
-> Qunar.card  
+> Qunar.card (current) 
   Zshell.card  
   Zhang.card  
   Zhi.card  
   Think.card 
-  Fedora.card *
+  Fedora.card
