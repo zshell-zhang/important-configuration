@@ -33,7 +33,7 @@
   **CSDN**:			qq_mail,qq  
   **CNBLOG**:		qq_mail,Github,alipay+{}  
   **ITEYE**:		CSDN  
-  **github**:		qq_mail,qq  
+  **github**:		gmail,qq  
   **nowcoder**:		qq_mail,card  
   **V2EX**:			XaaSerivce,card  
   **stackoverflow**:google  
@@ -41,10 +41,12 @@
   **zshell id_rsa**:zshell.zhang@qunar.com  
   **leanote**:      card    
 
-#### Qunar Loop
-> Qunar.card (current) 
+#### Qunar Work Password Loop
+```  
+  Qunar.card   * 
   Zshell.card  
   Zhang.card  
   Zhi.card  
   Think.card 
   Fedora.card
+```
