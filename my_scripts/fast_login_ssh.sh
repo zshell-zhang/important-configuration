@@ -1,8 +1,7 @@
 #!/bin/bash
 # qunar ssh remote server alias
 
-function sb()
-{
+function sb() {
   if [[ -z "$1" ]]; then
 	echo "sb 1"
 	echo "e10445d33c"  #zhi.zhang
@@ -22,8 +21,7 @@ function sb()
   fi
 }
 
-function st()
-{
+function st() {
   if [[ -n "$1" ]] ;then
       echo "zshell.zhang@l-rtools1.ops.cn$1.qunar.com"
       ssh zshell.zhang@l-rtools1.ops.cn$1.qunar.com

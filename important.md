@@ -10,8 +10,9 @@
 
 > **gome.com.cn**:	zhangzhi1993,qq  
   **jd**:			nnuzhangzhi,qq  
-  **8.baidu.com**:	card->WiFi  
-  **CMB**:			card  
+  **8.baidu.com**:	card->WiFi
+  **CMB**:			card
+  **BOB**:			xaaservice,card
 
 #### Trip
 
