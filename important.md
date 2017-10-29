@@ -51,3 +51,8 @@
   Think.card 
   Fedora.card
 ```
+
+#### thinkpad e540 ubuntu id_rsa passphrase
+```
+  目前某一个邮箱名
+```
