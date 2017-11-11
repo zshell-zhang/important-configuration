@@ -13,6 +13,7 @@
   **8.baidu.com**:	card->WiFi
   **CMB**:			card
   **BOB**:			xaaservice,card
+  **invest:** 029000505027,card,深:0238500762,沪:A178538907
 
 #### Trip
 
@@ -38,8 +39,7 @@
   **nowcoder**:		qq_mail,card  
   **V2EX**:			XaaSerivce,card  
   **stackoverflow**:google  
-  **infoq**:		google  
-  **zshell id_rsa**:zshell.zhang@qunar.com  
+  **infoq**:		google   
   **leanote**:      card    
 
 #### Qunar Work Password Loop
@@ -54,5 +54,5 @@
 
 #### thinkpad e540 ubuntu id_rsa passphrase
 ```
-  目前某一个邮箱名
+  @qunar.com
 ```
