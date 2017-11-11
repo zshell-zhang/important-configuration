@@ -11,9 +11,12 @@
 > **gome.com.cn**:	zhangzhi1993,qq  
   **jd**:			nnuzhangzhi,qq  
   **8.baidu.com**:	card->WiFi
-  **CMB**:			card
-  **BOB**:			xaaservice,card
-  **invest:** 029000505027,card,深:0238500762,沪:A178538907
+```
+  CMB:    card
+  BOB:    xaaservice,card
+  invest: 029000505027,card, 
+          深:0238500762,沪:A178538907
+```
 
 #### Trip
 
@@ -54,5 +57,5 @@
 
 #### thinkpad e540 ubuntu id_rsa passphrase
 ```
-  @qunar.com
+  xxx@qunar.com
 ```
