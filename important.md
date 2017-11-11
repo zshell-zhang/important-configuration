@@ -43,7 +43,7 @@
   **V2EX**:			XaaSerivce,card  
   **stackoverflow**:google  
   **infoq**:		google   
-  **leanote**:      gmail,qqxxx    
+  **leanote**:      gmail,qq    
 
 #### Qunar Work Password Loop
 ```  
