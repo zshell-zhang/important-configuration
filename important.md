@@ -15,7 +15,7 @@
   CMB:    card
   BOB:    xaaservice,card
   invest: 029000505027,card, 
-          深:0238500762,沪:A178538907
+          神:0238500762,户:A178538907
 ```
 
 #### Trip
@@ -47,8 +47,8 @@
 
 #### Qunar Work Password Loop
 ```  
-  Qunar.card   * 
-  Zshell.card  
+  Qunar.card   
+  Zshell.card  *
   Zhang.card  
   Zhi.card  
   Think.card 
