@@ -44,6 +44,7 @@
   **stackoverflow**:google  
   **infoq**:		google   
   **leanote**:      gmail,qq    
+  **leancloud**:    github, gmail, qq
 
 #### Qunar Work Password Loop
 ```  
