@@ -49,11 +49,11 @@
 #### Qunar Work Password Loop
 ```  
   Qunar.card   
-  Zshell.card  *
+  Zshell.card
   Zhang.card  
   Zhi.card  
   Think.card 
-  Fedora.card
+  Fedora.card  *
 ```
 
 #### thinkpad e540 ubuntu id_rsa passphrase
