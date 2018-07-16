@@ -45,6 +45,11 @@ function sshq() {
   if [[ -n "$1" ]] ;then
       echo "zshell.zhang@l-rtools1.ops.cn$1.qunar.com"
       ssh zshell.zhang@l-rtools1.ops.cn$1.qunar.com
+  else
+      ssh zshell.zhang@l-rtools1.ops.cn2.qunar.com
   fi
 }
 
+function ssh_cloud() {
+  ssh -p 22 -i ~/.ssh/id_rsa root@167.99.57.155
+}
