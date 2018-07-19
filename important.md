@@ -3,7 +3,7 @@
 #### Mail
 
 > **microsoft**:	nnuzhangzhi1993@live.com,qq  
-  **net_easy**:		service_impl@163.com,qq,gmbyvttdbxuwbqfv  
+  **netease**:		service_impl@163.com,qq,gmbyvttdbxuwbqfv  
   **gmail**:		xaaservice@gmail.com,qq  
 
 #### Shopping
@@ -29,7 +29,8 @@
 > **baidu**:		qq_mail,card  
   **weibo**:		花海199311,card  
   **360**:			qq,card  
-  **knower**:		qq_mail,qq  
+  **knower**:		qq_mail,qq
+  **paypal**: netease, qq
 
 #### CS
 
