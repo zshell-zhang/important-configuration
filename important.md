@@ -29,7 +29,7 @@
 > **baidu**:		qq_mail,card  
   **weibo**:		花海199311,card  
   **360**:			qq,card  
-  **knower**:		qq_mail,qq
+  **knower**:		qq_mail,qq  
   **paypal**: netease, qq
 
 #### CS
