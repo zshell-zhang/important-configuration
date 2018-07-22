@@ -44,8 +44,9 @@
   **V2EX**:			XaaSerivce,card  
   **stackoverflow**:google  
   **infoq**:		google   
-  **leanote**:      gmail,qq    
-  **leancloud**:    github, gmail, qq
+  **leanote**:      gmail,qq   
+  **leancloud**:    github, gmail, qq   
+  **digitalocean**: netease, qq, a6ffc09111bfd4b4dab39caef8
 
 #### Qunar Work Password Loop
 ```  
