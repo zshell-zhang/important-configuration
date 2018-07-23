@@ -3,7 +3,7 @@
 #### Mail
 
 > **microsoft**:	nnuzhangzhi1993@live.com,qq  
-  **net_easy**:		service_impl@163.com,qq,gmbyvttdbxuwbqfv  
+  **netease**:		service_impl@163.com,qq,gmbyvttdbxuwbqfv  
   **gmail**:		xaaservice@gmail.com,qq  
 
 #### Shopping
@@ -30,6 +30,7 @@
   **weibo**:		花海199311,card  
   **360**:			qq,card  
   **knower**:		qq_mail,qq  
+  **paypal**: netease, qq
 
 #### CS
 
@@ -43,8 +44,9 @@
   **V2EX**:			XaaSerivce,card  
   **stackoverflow**:google  
   **infoq**:		google   
-  **leanote**:      gmail,qq    
-  **leancloud**:    github, gmail, qq
+  **leanote**:      gmail,qq   
+  **leancloud**:    github, gmail, qq   
+  **digitalocean**: netease, qq, a6ffc09111bfd4b4dab39caef8
 
 #### Qunar Work Password Loop
 ```  
