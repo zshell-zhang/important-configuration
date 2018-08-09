@@ -30,7 +30,8 @@
   **weibo**:		花海199311,card  
   **360**:			qq,card  
   **knower**:		qq_mail,qq  
-  **paypal**: netease, qq
+  **paypal**: netease, qq   
+  **apple**: netease, I don't use iphone for steven   
 
 #### CS
 
@@ -46,7 +47,8 @@
   **infoq**:		google   
   **leanote**:      gmail,qq   
   **leancloud**:    github, gmail, qq   
-  **digitalocean**: netease, qq, a6ffc09111bfd4b4dab39caef8
+  **digitalocean**: netease, qq, a6ffc09111bfd4b4dab39caef8   
+  **oracle**:  netease, qq   
 
 #### Qunar Work Password Loop
 ```  
