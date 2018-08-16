@@ -30,7 +30,7 @@
   **weibo**:		花海199311,card  
   **360**:			qq,card  
   **knower**:		qq_mail,qq  
-  **paypal**: netease, qq   
+  **paypal**: netease, wifi   
   **apple**: netease, I don't use iphone for steven   
 
 #### CS
