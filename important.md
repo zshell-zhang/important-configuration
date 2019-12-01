@@ -10,7 +10,6 @@
 
 > **gome.com.cn**:	zhangzhi1993,qq  
   **jd**:			nnuzhangzhi,qq  
-  **8.baidu.com**:	card->WiFi
 ```
   CMB:    card
   BOB:    xaaservice,card
@@ -31,7 +30,7 @@
   **360**:			qq,card  
   **knower**:		qq_mail,qq  
   **paypal**: netease, wifi   
-  **apple**: netease, I don't use iphone for steven   
+  **apple**: netease, Zhangzhiqq   
 
 #### CS
 
@@ -50,8 +49,9 @@
   **digitalocean**: netease, qq, a6ffc09111bfd4b4dab39caef8   
   **oracle**:  netease, qq   
 
-#### Qunar Work Password Loop
+#### alibaba work password loop
 ```  
+  wifi.
   Qunar.card   
   Zshell.card
   Zhang.card  
