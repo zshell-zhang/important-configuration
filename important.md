@@ -30,7 +30,7 @@
   **360**:			qq,card  
   **knower**:		qq_mail,qq  
   **paypal**: netease, wifi   
-  **apple**: netease, Zhangzhiqq   
+  **apple**: netease, [W]ifi   
 
 #### CS
 
