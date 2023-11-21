@@ -9,7 +9,7 @@
 #### Trade
 
 > **gome.com.cn**:	zhangzhi1993,qq  
-  **jd**:			nnuzhangzhi,qq
+  **jd**:			nnuzhangzhi,qq  
   **BOCI**: 8339689-2000, ZSHELL, zz+card
 ```
   CMB:    card
@@ -66,5 +66,5 @@
   xxx@qunar.com
 ```
 
-#### car
+#### SONATA 10
 > **bluelink**: netease, wifi
