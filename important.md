@@ -6,10 +6,11 @@
   **netease**:		service_impl@163.com,qq,gmbyvttdbxuwbqfv  
   **gmail**:		xaaservice@gmail.com,qq  
 
-#### Shopping
+#### Trade
 
 > **gome.com.cn**:	zhangzhi1993,qq  
-  **jd**:			nnuzhangzhi,qq  
+  **jd**:			nnuzhangzhi,qq
+  **BOCI**: 8339689-2000, ZSHELL, zz+card
 ```
   CMB:    card
   BOB:    xaaservice,card
@@ -51,16 +52,19 @@
 
 #### alibaba work password loop
 ```  
-  wifi.
+  .wifi        *
   Qunar.card   
   Zshell.card
   Zhang.card  
   Zhi.card  
   Think.card 
-  Fedora.card  *
+  Fedora.card
 ```
 
 #### thinkpad e540 ubuntu id_rsa passphrase
 ```
   xxx@qunar.com
 ```
+
+#### car
+> **bluelink**: netease, wifi
